@@ -1,0 +1,7 @@
+.ht*
+sftp.json
+!package.json
+node_modules
+*.txt
+!robots.txt
+webpack.config.js
